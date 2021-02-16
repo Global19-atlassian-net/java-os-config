@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.5](https://www.github.com/googleapis/java-os-config/compare/v1.1.4...v1.1.5) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#210](https://www.github.com/googleapis/java-os-config/issues/210)) ([bbbc522](https://www.github.com/googleapis/java-os-config/commit/bbbc522dc27abab01df996412cd27568e0f03f8e))
+
 ### [1.1.4](https://www.github.com/googleapis/java-os-config/compare/v1.1.3...v1.1.4) (2021-01-14)
 
 
